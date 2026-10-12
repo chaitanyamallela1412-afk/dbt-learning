@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: stock_data
+    database: chaitanya-project-504507
+    schema: stock_data
+
+    tables:
+      - name: bronze_stock_prices
